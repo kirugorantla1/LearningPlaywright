@@ -1,2 +1,2 @@
-console.log(process.platform);
+console.log(Process.platform);
 // console.log(process.arch);
